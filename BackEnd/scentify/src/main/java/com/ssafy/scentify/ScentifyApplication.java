@@ -1,14 +1,3 @@
-package com.ssafy.scentify;
-
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration;
-
-@SpringBootApplication(exclude = SecurityAutoConfiguration.class)
-public class ScentifyApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(ScentifyApplication.class, args);
-	}
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:209357a04b94a28a062b0493aa9974dc2dd66e9f81f924c1c4e7b1eb2d1f1bcf
+size 548

@@ -1,12 +1,3 @@
-import React from 'react';
-
-
-const Header = () => {
-  return (
-    <header className="header">
-      <img src='/scentify-green-logo.png' alt='Scentify logo' className='scentifyLogo' />
-    </header>
-  );
-};
-
-export default Header;
+version https://git-lfs.github.com/spec/v1
+oid sha256:782e1b01027569dbf1b16cbc55ebed8b50667123f0b9bdfd7086a515c2513b02
+size 804

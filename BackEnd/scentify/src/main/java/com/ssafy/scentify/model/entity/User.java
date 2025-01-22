@@ -1,20 +1,3 @@
-package com.ssafy.scentify.model.entity;
-
-import java.sql.Date;
-import lombok.*;
-
-@Getter
-@ToString
-@NoArgsConstructor
-@AllArgsConstructor
-public class User {
-    private String id;
-    private String password;
-    private String nickname;
-    private String phoneNumber;
-    private Integer imageNum;
-    private Integer socialType;
-    private String gender;
-    private Date birth;
-    private Integer mainDeviceId;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:89d13d856f1ca737f091b1804b1d1bca6691a721ea8fe73d6ce4161399ac85f3
+size 2977

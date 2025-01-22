@@ -1,9 +1,3 @@
-const Home = () => {
-  return (
-    <div className="flex items-center justify-center h-full">
-      <h2 className="text-xl font-pre-bold text-brand">Home 입니당</h2>
-    </div>
-  );
-};
-
-export default Home;
+version https://git-lfs.github.com/spec/v1
+oid sha256:60881bf042afcbf8bf81594920741c3627683387c16b636444886e4e1f1a7b22
+size 767

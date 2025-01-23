@@ -1,17 +1,3 @@
-import React from "react";
-import Header from "./Header";
-import Footer from "./Footer";
-
-const Layout = ({ children }: { children: React.ReactNode }) => {
-    return (
-      <div className="app">
-        <Header />
-        <main className="content pt-[60px] pb-[40px] flex-grow">
-          {children}
-        </main>
-        <Footer />
-      </div>
-    );
-  };
-  
-  export default Layout;
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b05e1d997d3eb199cec79e60bd51c8008dbb0840236eb026eb15533e3efd61d
+size 582

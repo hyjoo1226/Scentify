@@ -1,27 +1,3 @@
-
-def get_connect_frame(host):
-    return (
-        "CONNECT\n"
-        "accept-version:1.1\n"
-        f"host:{host}\n"
-        "\n\x00"
-    )   
-    
-
-
-def get_subscribe_frame(id, destination):
-    return  (
-        "SUBSCRIBE\n"
-        f"id:{id}\n"
-        f"destination:{destination}\n"
-        "ack:auto\n"
-        "\n\x00"
-    )
- 
-def get_send_frame(destination, msg):
-    return (
-        "SEND\n"
-        f"destination:{destination}\n"
-        "content-type:text/plain\n"
-        f'{msg}\x00'
-    )
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6d94c2568e485f28f104eb8af46bc88a32c759d69e97b6af4b760db167b7c8d
+size 548

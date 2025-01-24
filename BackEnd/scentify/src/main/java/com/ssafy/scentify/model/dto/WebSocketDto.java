@@ -1,16 +1,3 @@
-package com.ssafy.scentify.model.dto;
-
-import lombok.Data;
-
-public class WebSocketDto {
-	
-	@Data
-	public class ModeChangeRequest {
-	    private String type;  
-	    private int mode;     
-	    private boolean stinkModeOn;
-	    private boolean exerciseModeOn;
-	    private boolean restModeOn;
-	    private boolean simpleDetectionModeOn;
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:058c76d37c6e1747c22c3ea3bcffb95fb67ee21dda72ac722023b8e32cde4cd6
+size 523

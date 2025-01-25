@@ -1,17 +1,3 @@
-package com.ssafy.scentify.model.dto;
-
-import jakarta.validation.constraints.NotBlank;
-import lombok.AllArgsConstructor;
-import lombok.Data;
-
-public class UserDto {
-	
-	@Data
-	@AllArgsConstructor
-	public static class LoginDto {
-		@NotBlank 
-	    private String id;
-		@NotBlank
-	    private String password;
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fd237c7c3a028ed5d593778fd40d2af5900115823d60719eee0d2719a600620
+size 971

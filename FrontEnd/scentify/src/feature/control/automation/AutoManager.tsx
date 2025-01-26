@@ -1,10 +1,3 @@
-import AutoIcon from "../../../assets/icons/auto-icon.svg";
-
-export default function AutoManager() {
-  return (
-    <div className="flex items-center gap-1">
-      <img src={AutoIcon} alt="자동화 이미지" />
-      <h1>자동화 모드 설정</h1>
-    </div>
-  );
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8beac45914f2a2ceae0d17eed34fad61561f7d4c5d9ea10bb0a5e041da87005
+size 4119

@@ -1,11 +1,3 @@
-package com.ssafy.scentify.device.model.repository;
-
-import org.apache.ibatis.annotations.Mapper;
-import org.apache.ibatis.annotations.Select;
-
-@Mapper
-public interface DeviceRepository {
-	// serial 존재 여부 확인
-    @Select("SELECT COUNT(*) > 0 FROM device WHERE serial = #{serial}")
-    boolean existsBySerial(String serial);
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1b21e2c11362ebe921bcfcd192baacc5943cd4d1952df6563d2e51fee0afa98
+size 654

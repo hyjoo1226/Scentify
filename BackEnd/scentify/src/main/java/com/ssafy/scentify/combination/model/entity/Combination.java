@@ -1,21 +1,3 @@
-package com.ssafy.scentify.combination.model.entity;
-
-import lombok.*;
-
-@Getter
-@ToString
-@NoArgsConstructor
-@AllArgsConstructor
-public class Combination {
-    private Integer id;
-    private String name;
-    private Integer choice1;
-    private Integer choice1Count;
-    private Integer choice2;
-    private Integer choice2Count;
-    private Integer choice3;
-    private Integer choice3Count;
-    private Integer choice4;
-    private Integer choice4Count;
-    private String imageUrl;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f4169768880f8f8435178f75dada89f34ee4d28429c7406d4110109e293d099
+size 2271

@@ -1,17 +1,3 @@
-package com.ssafy.scentify.device;
-
-import org.springframework.stereotype.Service;
-import com.ssafy.scentify.device.model.repository.DeviceRepository;
-
-@Service
-public class DeviceService {
-	private final DeviceRepository deviceRepository;
-	
-	public DeviceService(DeviceRepository deviceRepository) {
-		this.deviceRepository = deviceRepository;
-	}
-	
-	public boolean selectDeviceBySerial(String Serial) {
-		return deviceRepository.existsBySerial(Serial) ? true : false;
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:332ff5008d097eb8f38832fb1a357702d33d8f757d42b921a9794e71cc7f15b2
+size 946

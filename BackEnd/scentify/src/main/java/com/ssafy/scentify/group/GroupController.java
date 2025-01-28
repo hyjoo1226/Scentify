@@ -1,13 +1,3 @@
-package com.ssafy.scentify.group;
-
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
-
-import lombok.extern.slf4j.Slf4j;
-
-@Slf4j
-@RequestMapping("/v1/group")
-@RestController
-public class GroupController {
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:66398dcacd056f8731bfa363f3f31a7aaff0a08ceb45480ddfa1bf212688fad6
+size 3553

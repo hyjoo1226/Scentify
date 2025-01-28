@@ -1,16 +1,3 @@
-package com.ssafy.scentify.group.model.dto;
-
-import lombok.AllArgsConstructor;
-import lombok.Data;
-
-public class GroupDto {
-	
-	@Data
-    @AllArgsConstructor
-    public static class CreateDto {
-        private Integer id;   
-        private Integer deviceId;
-        private String adminId;  
-        private String adminNickname; 
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ac599f15d2abf485b1114181d1fae7b8c71b34147ef4e9c52b96f6d884c38df
+size 520

@@ -1,15 +1,3 @@
-import SpaceDescription from "./SpaceDescription";
-import SpaceTab from "./SpaceTab";
-
-function DefaultScent() {
-  return (
-    <div className="content px-4">
-      <SpaceTab></SpaceTab>
-      <div className="mt-4">
-        <SpaceDescription></SpaceDescription>
-      </div>
-    </div>
-  );
-}
-export default DefaultScent;
-//완료 눌렀을때 제출핸들러 작동하게 해야함
+version https://git-lfs.github.com/spec/v1
+oid sha256:90948a9fea1f7bf5b55e7181f5f2777ebde53817cdd7a8a1f2bba107f6228a7c
+size 2120

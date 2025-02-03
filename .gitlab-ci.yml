@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4c74864f2e87b97b3ad62e739d0c0236c6ce85e61c5a7e9840321741a6badbf5
-size 1176
+stages:
+  - build
+  - test
+
+job_build:
+  stage: build
+  script:
+    - echo "Building the project"
+
+job_test:
+  stage: test
+  script:
+    - echo "Running tests"

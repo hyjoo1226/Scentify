@@ -1,14 +1,3 @@
-// 자동화 모드 설정 관련 타입
-export type AutoMode = {
-  탈취: boolean;
-  동작: {
-    집중: boolean;
-    휴식: boolean;
-  };
-  탐지: boolean;
-};
-
-export interface AutoManagerProps {
-  selectedDevice: string;
-  onDeviceChange: (device: string) => void;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bbce0515c5f64fd2837a5e0d8ad42c046c947ab408479a15f71a0dc5a3da0d6
+size 1541

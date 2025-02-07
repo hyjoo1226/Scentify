@@ -1,15 +1,3 @@
-from dataclasses import dataclass, field
-from typing import List, Dict
-
-@dataclass
-class AutoDetectionMode:
-    combinationId : int = -1
-    interval : int = -1
-    sub_mode : int = -1
-    operation_type :int = None
-    modeOn : bool = False
-
-@dataclass
-class Mode:
-    operation_mode: int = 0
-    auto_operation_mode: Dict[int, AutoDetectionMode] = field(default_factory=dict)
+version https://git-lfs.github.com/spec/v1
+oid sha256:880d405345297e1c22e23e05c228c1863c529ee06503fb559575ab91fe6f5fa6
+size 577

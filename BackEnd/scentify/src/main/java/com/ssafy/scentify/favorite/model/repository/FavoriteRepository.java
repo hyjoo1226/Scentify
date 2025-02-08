@@ -1,12 +1,3 @@
-package com.ssafy.scentify.favorite.model.repository;
-
-import org.apache.ibatis.annotations.Insert;
-import org.apache.ibatis.annotations.Mapper;
-
-@Mapper
-public interface FavoriteRepository {
-	
-	@Insert("INSERT INTO favorite (user_id, combination_id) VALUES (#{userId}, #{combinationId})")
-	boolean addCombinationToFavorites(String userId, int combinationId);
-	
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b4a51ca32dd93eb3d9d37bc7380a6f25eddb591a82ebc5abe09a1e734bc4fc7
+size 832

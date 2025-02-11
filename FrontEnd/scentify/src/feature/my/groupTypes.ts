@@ -1,26 +1,3 @@
-export interface Group {
-  id: string;
-  adminId: string;
-  adminNickname: string;
-  member1Id?: string;
-  member1Nickname?: string;
-  member2Id?: string;
-  member2Nickname?: string;
-  member3Id?: string;
-  member3Nickname?: string;
-  member4Id?: string;
-  member4Nickname?: string;
-}
-
-export interface GroupInfoResponse {
-  group: Group;
-}
-
-export interface DeleteMemberRequest {
-  groupId: string;
-  memberId: string;
-}
-
-export interface DeleteGroupRequest {
-  groupId: string;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:915763a2f0a49bc5090bac359e0f67f4b699a1a20a1a6d9a709f018dae5d5daa
+size 600

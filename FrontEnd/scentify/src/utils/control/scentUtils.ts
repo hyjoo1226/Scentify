@@ -1,16 +1,3 @@
-// 향기 번호 이름으로 변환
-export const getScentName = (choice: number): string => {
-  const scentOptions = [
-    "레몬",
-    "유칼립투스",
-    "페퍼민트",
-    "라벤더",
-    "시더우드",
-    "카모마일",
-    "샌달우드",
-    "화이트머스크",
-    "오렌지블라썸",
-  ];
-
-  return scentOptions[choice];
-};
+version https://git-lfs.github.com/spec/v1
+oid sha256:b31b67e7743614e81eb03ad199b2df81fb3d3bb91188488127a56fd9f2fb59a5
+size 973

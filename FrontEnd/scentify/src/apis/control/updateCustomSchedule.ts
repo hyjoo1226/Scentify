@@ -1,19 +1,3 @@
-import { ReservationData } from "../../feature/control/reservation/ReservationType";
-
-// 예약 수정
-export const updateCustomSchedule = async (
-  reservationData: ReservationData,
-  accessToken: string
-) => {
-  const response = await fetch("/v1/custom/update", {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      Authorization: `Bearer ${accessToken}`,
-    },
-    body: JSON.stringify(reservationData),
-  });
-  console.log(reservationData);
-
-  return response.status;
-};
+version https://git-lfs.github.com/spec/v1
+oid sha256:f376e7d6633e8b2252c8eacf6e196e01ec587e29c5cc40e559e6108d5973a2dc
+size 592

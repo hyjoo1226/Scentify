@@ -1,17 +1,3 @@
-// 예약 삭제
-export const deleteCustomSchedule = async (
-  customScheduleId: number,
-  selectedDevice: number,
-  accessToken: string
-) => {
-  const response = await fetch("/v1/custom/delete", {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      Authorization: `Bearer ${accessToken}`,
-    },
-    body: JSON.stringify({ id: customScheduleId, deviceId: selectedDevice }),
-  });
-
-  return response.status;
-};
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fc86be44974579cdf7717c62cb8dd3b08ff03083612d864fd49b1ab5b493d7b
+size 551

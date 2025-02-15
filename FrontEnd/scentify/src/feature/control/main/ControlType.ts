@@ -1,15 +1,3 @@
-// 모드 타입 정의(0: reservation, 1: auto)
-export type Mode = boolean;
-
-// ModeToggle 컴포넌트 props
-export interface ModeToggleProps {
-  currentMode: Mode | null;
-  onModeChange: (mode: boolean) => void;
-}
-
-// ModeChangeModal 관련 타입
-export interface ModeChangeModalProps {
-  nextMode: Mode;
-  onConfirm: () => void;
-  onCancel: () => void;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f9b850f93de8081610699d42e971e2d162feee7d3ac3947103e71b26f5a9e84
+size 845

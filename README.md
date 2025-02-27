@@ -4,7 +4,7 @@
 
 1. **주변 환경 또는 사용자 행동 기반 자동화 모드을 제공합니다.**
 
-   - 악취 탐지될 시, 사용자 설정 간격으로 기본 조합을 분사합니다.
+   - 악취 탐지될 시, 사용자가 설정한 간격, 향 조합으로 분사합니다.
    - 카메라 센서를 통해 인식된 사용자 행동을 분석하여 운동, 집중 모드에 해당할 경우 추천 조합을 분사합니다.
    - 카메라 센서에 사용자 감지 시, 기본 조합을 분사합니다.
 
@@ -65,7 +65,7 @@
 
 ## 📌 ERD 다이어그램
 
-![Untitled](/uploads/6969039fd2a703988aaabf8f21dac0ec/Untitled.png)
+![ERD](exec/ERD.png)
 
 <br>
 
@@ -73,19 +73,35 @@
 
 ### 1️⃣ [BE] API 명세서
 
-![image](/uploads/55f0a4241db1e1e68b27249bf1380626/image.png){width=871 height=516}
-![image](/uploads/9e8285c8c12bd44908c172cc899e5b29/image.png){width=871 height=461}
-![image](/uploads/afa29cc78f5b4d2309a22e24f365746e/image.png){width=871 height=504}
-![image](/uploads/9e87ca1ec81f7841f5fe248ea7e36e0d/image.png){width=871 height=473}
-![image](/uploads/aba6ed9ed7fbf69a96947d8ddd10cc77/image.png){width=871 height=409}
-![image](/uploads/105ceebbb5038f1effef40638fb3253d/image.png){width=871 height=518}
-![image](/uploads/d7f7bab0ce1abaa9cf23b70c24f99906/image.png){width=871 height=517}
-![image](/uploads/f5e0d2a4e7d6639cd93a33b7bb519736/image.png){width=871 height=387}
-![image](/uploads/b966e56b277b55a7d635fff204e2cf74/image.png){width=871 height=500}
-![image](/uploads/d65367e2033991d5d4e72242b049e265/image.png){width=871 height=51}
+![image](exec/API명세서/BE-1.png)
+![image](exec/API명세서/BE-2.png)
+![image](exec/API명세서/BE-3.png)
+![image](exec/API명세서/BE-4.png)
+![image](exec/API명세서/BE-5.png)
+![image](exec/API명세서/BE-6.png)
+![image](exec/API명세서/BE-7.png)
+![image](exec/API명세서/BE-8.png)
+![image](exec/API명세서/BE-9.png)
+![image](exec/API명세서/BE-10.png)
+![image](exec/API명세서/BE-11.png)
+![image](exec/API명세서/BE-12.png)
+![image](exec/API명세서/BE-13.png)
+![image](exec/API명세서/BE-14.png)
+![image](exec/API명세서/BE-15.png)
+![image](exec/API명세서/BE-16.png)
+![image](exec/API명세서/BE-17.png)
+![image](exec/API명세서/BE-18.png)
+![image](exec/API명세서/BE-19.png)
+![image](exec/API명세서/BE-20.png)
+![image](exec/API명세서/BE-21.png)
+![image](exec/API명세서/BE-22.png)
 
 ### 2️⃣ [EM] API 명세서
 
-![image](/uploads/e0379c5597eef0e6a6f388f9ba7d312e/image.png){width=871 height=496}
-![image](/uploads/98f19db8cbff61d0fb2b758dd7e3ea64/image.png){width=871 height=444}
-![image](/uploads/6d63f3b437c153b553121de808f229eb/image.png){width=871 height=244}
+![image](exec/API명세서/EM-1.png)
+![image](exec/API명세서/EM-2.png)
+![image](exec/API명세서/EM-3.png)
+![image](exec/API명세서/EM-4.png)
+![image](exec/API명세서/EM-5.png)
+![image](exec/API명세서/EM-6.png)
+![image](exec/API명세서/EM-7.png)

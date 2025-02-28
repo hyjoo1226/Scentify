@@ -76,7 +76,7 @@
 
 ### **[비기능 명세서]**
 
-![image](exec/비기능명세서.png)
+<img src="exec/비기능명세서.png" width="60%" height="60%">
 
 <br>
 

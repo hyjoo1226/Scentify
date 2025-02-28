@@ -119,7 +119,8 @@
 
 ## 📌 주요 기능
 - 기기 등록
-![기기등록](https://github.com/user-attachments/assets/520a919b-a4fb-4291-bcd0-fb2cf45b9cb7){: width="20%" height="20%"}
+<img src="https://github.com/user-attachments/assets/520a919b-a4fb-4291-bcd0-fb2cf45b9cb7" width="20%" height="20%">
+
 
 
 ## 📌 유저 테스트

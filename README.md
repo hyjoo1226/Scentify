@@ -118,16 +118,16 @@
 - [[EM] API 명세서](<./exec/API명세서/API%20명세서(EM).pdf>)
 
 ## 📌 주요 기능
+
 - 기기 등록
-<img src="https://github.com/user-attachments/assets/520a919b-a4fb-4291-bcd0-fb2cf45b9cb7" width="20%" height="20%">
-
-
+  <img src="https://github.com/user-attachments/assets/520a919b-a4fb-4291-bcd0-fb2cf45b9cb7" width="20%" height="20%">
 
 ## 📌 유저 테스트
 
 - 삼성 임직원 유저 테스트 참여(2025.02.18)
 
 - 테스트 결과 반영(2025.02.19)
+- [유저 테스트 문서](./exec/유저테스트.md)
 
 ## 📌 배포
 

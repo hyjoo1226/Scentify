@@ -89,6 +89,8 @@
 ## 📌 기기 구조
 
 ![기기 구조](exec/기기구조.png)
+![기기작동장면](exec/기기작동%20장면.gif)
+![단순탐지모드](exec/단순탐지모드.gif)
 
 <br>
 
@@ -120,34 +122,42 @@
 ## 📌 주요 기능
 
 ### 1.회원가입
+
 <img src="https://github.com/user-attachments/assets/9cc555ad-96ea-4080-b379-5ce36a3bacef" width="350px">
 
 ### 2.로그인
+
 <img src="https://github.com/user-attachments/assets/8877c638-48e0-4ce6-b563-285ed7f91c24" width="350px">
 
 ### 3.기기등록
+
 <img src="https://github.com/user-attachments/assets/6f456784-e127-4d25-acd7-56a8c4294aff" width="350px">
 
 ### 4.즉시분사
+
 <img src="https://github.com/user-attachments/assets/932efe62-ed97-42cc-a05b-9ad3913a97ae" width="350px">
 
 ### 5.예약모드
+
 <img src="https://github.com/user-attachments/assets/23b8cc2b-adec-4d37-ae46-6322b5a691b0" width="350px">
 
 ### 6.자동화모드
+
 <img src="https://github.com/user-attachments/assets/168fcbaa-c16e-4333-bfb5-648536f1d847" width="350px">
 
 ### 7.찜하기
+
 <img src="https://github.com/user-attachments/assets/8f06ef47-eb74-493b-807e-f92c98e5c042" width="350px">
 
 ### 8.공유하기
+
 <img src="https://github.com/user-attachments/assets/890b84dc-586b-412b-acad-cbdc818d095e" width="350px">
 
 ### 9.그룹관리
+
 <img src="https://github.com/user-attachments/assets/bccf5136-fe90-42f1-927b-7ceef157714a" width="300px">
 <img src="https://github.com/user-attachments/assets/543eb85a-ec95-40af-90c8-f5f8f0abb348" width="300px">
 <img src="https://github.com/user-attachments/assets/85172d52-63e3-434d-aacf-e07f03c2328d" width="300px">
-
 
 ## 📌 유저 테스트
 
